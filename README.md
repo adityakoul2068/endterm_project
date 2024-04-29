@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+Conceived and created a movie app, focusing on UI design, API integration, and user management.
+Proficient in Firebase and Node packages, I delivered a seamless and secure user experience.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
